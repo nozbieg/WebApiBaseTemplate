@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace GabosNationalNode.Application.Features.VersionInfo.Queries
+namespace WebApi.Application.Features.VersionInfo.Queries
 {
     public class GetVersionInfoQueryHandler : IRequestHandler<GetVersionInfoQuery, GetVersionInfoResponse>
     {

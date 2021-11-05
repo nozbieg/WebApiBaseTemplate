@@ -14,8 +14,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\GabosNationalNode.Application\GabosNationalNode.Application.csproj" />
-    <ProjectReference Include="..\GabosNationalNode.Infrastructure\GabosNationalNode.Infrastructure.csproj" />
+    <ProjectReference Include="..\GabosNationalNode.Application\WebApi.Application.csproj" />
+    <ProjectReference Include="..\GabosNationalNode.Infrastructure\WebApi.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>

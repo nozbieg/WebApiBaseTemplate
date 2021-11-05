@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace GabosNationalNode.Application.Responses
+namespace WebApi.Application.Responses
 {
     public class BaseResponse
     {

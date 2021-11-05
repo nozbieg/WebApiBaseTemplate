@@ -1,4 +1,4 @@
-﻿namespace GabosNationalNode.Application.Features.VersionInfo.Queries
+﻿namespace WebApi.Application.Features.VersionInfo.Queries
 {
     public class VersionInfoDto
     {

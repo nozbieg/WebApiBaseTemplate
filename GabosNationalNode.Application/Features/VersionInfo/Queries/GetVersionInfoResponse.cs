@@ -1,11 +1,11 @@
-﻿using GabosNationalNode.Application.Responses;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using WebApi.Application.Responses;
 
-namespace GabosNationalNode.Application.Features.VersionInfo.Queries
+namespace WebApi.Application.Features.VersionInfo.Queries
 {
    
     public class GetVersionInfoResponse : BaseResponse

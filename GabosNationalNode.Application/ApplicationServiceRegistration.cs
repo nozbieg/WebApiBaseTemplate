@@ -7,7 +7,7 @@ using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace GabosNationalNode.Application
+namespace WebApi.Application
 {
     public static class ApplicationServiceRegistration
     {

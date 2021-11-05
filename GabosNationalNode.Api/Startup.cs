@@ -1,5 +1,3 @@
-using GabosNationalNode.Application;
-using GabosNationalNode.Infrastructure;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
@@ -11,8 +9,10 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using WebApi.Application;
+using WebApi.Infrastructure;
 
-namespace GabosNationalNode.Api
+namespace WebApi.Api
 {
     public class Startup
     {

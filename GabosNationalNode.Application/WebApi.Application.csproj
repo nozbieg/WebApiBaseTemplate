@@ -13,7 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\GabosNationalNode.Domain\GabosNationalNode.Domain.csproj" />
+    <ProjectReference Include="..\GabosNationalNode.Domain\WebApi.Domain.csproj" />
   </ItemGroup>
 
   <ItemGroup>

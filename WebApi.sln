@@ -15,13 +15,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{B6B3AAA3-0
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ui", "Ui", "{496459E6-9B61-4ED8-95FF-D79346775571}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GabosNationalNode.Application", "GabosNationalNode.Application\GabosNationalNode.Application.csproj", "{0752FB09-2873-4216-8954-41BAE7A5A1B8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi.Application", "GabosNationalNode.Application\WebApi.Application.csproj", "{0752FB09-2873-4216-8954-41BAE7A5A1B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GabosNationalNode.Domain", "GabosNationalNode.Domain\GabosNationalNode.Domain.csproj", "{93D71BC3-F577-4CAB-919B-5BB40E356D6E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi.Domain", "GabosNationalNode.Domain\WebApi.Domain.csproj", "{93D71BC3-F577-4CAB-919B-5BB40E356D6E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GabosNationalNode.Api", "GabosNationalNode.Api\GabosNationalNode.Api.csproj", "{7FCD6EEF-433A-48A2-9EAD-FBCD9651D39D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi.Api", "GabosNationalNode.Api\WebApi.Api.csproj", "{7FCD6EEF-433A-48A2-9EAD-FBCD9651D39D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GabosNationalNode.Infrastructure", "GabosNationalNode.Infrastructure\GabosNationalNode.Infrastructure.csproj", "{029C7432-ADCA-4E4D-9437-876E21376A5F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi.Infrastructure", "GabosNationalNode.Infrastructure\WebApi.Infrastructure.csproj", "{029C7432-ADCA-4E4D-9437-876E21376A5F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

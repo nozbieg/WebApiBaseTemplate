@@ -1,12 +1,11 @@
-﻿using GabosNationalNode.Application.Features.VersionInfo.Queries;
-using MediatR;
-using Microsoft.AspNetCore.Mvc;
-using System;
-using System.Collections.Generic;
+﻿using System;
 using System.Linq;
 using System.Threading.Tasks;
+using MediatR;
+using Microsoft.AspNetCore.Mvc;
+using WebApi.Application.Features.VersionInfo.Queries;
 
-namespace GabosNationalNode.Api.Controllers
+namespace WebApi.Api.Controllers
 {
     [ApiController]
     [Route("[controller]")]

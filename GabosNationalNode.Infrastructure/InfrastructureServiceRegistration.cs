@@ -8,7 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace GabosNationalNode.Infrastructure
+namespace WebApi.Infrastructure
 {
     public static class InfrastructureServiceRegistration
     {
